@@ -1,0 +1,16 @@
+body{
+background-color: rgb(41, 0, 82);
+}
+
+.picture{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.container{
+justify-content: center;
+text-align: center;
+margin: 12px;
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
+}
